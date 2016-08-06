@@ -1,0 +1,59 @@
+$ scala sievep.scala 100 4
+541
+Time taken: 7
+
+$ scala sievep.scala 100 5
+541
+Time taken: 7
+
+$ scala sievep.scala 100 10
+541
+Time taken: 8
+
+$ scala sievep.scala 1000 10
+7919
+Time taken: 28
+
+$ scala sievep.scala 1000 4
+7919
+Time taken: 29
+
+$ scala sievep.scala 1000 100
+7919
+Time taken: 36
+
+$ scala sievep.scala 1000 20
+7919
+Time taken: 30
+
+$ scala sievep.scala 1000 11
+7919
+Time taken: 31
+
+$ scala sievep.scala 1000 10
+7919
+Time taken: 28
+
+$ scala sievep.scala 1000 9
+7919
+Time taken: 29
+
+$ scala sievep.scala 100000 10
+1299709
+Time taken: 170
+
+$ scala sievep.scala 100000 4
+1299709
+Time taken: 169
+
+$ scala sievep.scala 1000000 4
+15485863
+Time taken: 3129
+
+$ scala sievep.scala 1000000 10
+15485863
+Time taken: 3123
+
+$ scala sievep.scala 10000000 4
+179424673
+Time taken: 83454
